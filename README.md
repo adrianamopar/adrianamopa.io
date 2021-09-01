@@ -1,2 +1,2 @@
-# adrianamopa.io
+# adrianamopa.github.io
 CIS 255 Home Page
