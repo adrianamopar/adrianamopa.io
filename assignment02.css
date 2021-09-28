@@ -32,6 +32,18 @@ span {
   border: 5px solid #0000ff;
 }
 
+.a {
+  display: inline;
+}
+
+.b {
+  display: block;
+}
+
+.c {
+  display: inline-block;
+}
+
 img[alt="cat icon"]{
   position: fixed; 
   bottom: 0;
