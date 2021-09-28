@@ -65,7 +65,7 @@ img[alt="bird icon"]{
 nav {
   position: sticky;
   top: 0;
-  z-index: 0;
+  z-index: 1;
   background: green;
   opacity: 90%;
   padding: 5px;
