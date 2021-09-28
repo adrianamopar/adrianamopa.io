@@ -71,6 +71,24 @@ nav {
   padding: 5px;
   font-size: 20px;
 }
+table tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+table tr:nth-child(odd) {
+  background-color: grey;
+}
+th {
+  background-color: skyblue;
+}
+td {
+  text-align: right;
+}
+table tr:hover {
+  background-color: yellow;
+}
+input:focus {
+  background-color: pink;
+}
 
 /* --- pre-existing css --- */
 .stripey tr:nth-child(even) {
