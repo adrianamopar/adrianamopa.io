@@ -52,7 +52,7 @@ img[alt="cat icon"]{
 
 img[alt="dog icon"]{
   position: relative;
-  below: 150px;
+  bottom: 150px;
   right: 50px;
 }
 
@@ -65,7 +65,7 @@ img[alt="bird icon"]{
 nav {
   position: sticky;
   top: 0;
-  right: 0;
+  z-index: 0;
   background: green;
   opacity: 90%;
   padding: 5px;
