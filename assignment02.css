@@ -10,7 +10,7 @@ body {
 }
 
 .classy {
-  padding-left: 10px;
+  margin-left: 10px;
 }
 
 #igottabeme {
@@ -18,7 +18,7 @@ body {
 }
 
 div {
-  padding-bottom: 50px;
+  margin-bottom: 50px;
 }
 
 span {
@@ -32,33 +32,20 @@ span {
   border: 5px solid #0000ff;
 }
 
-.a {
-  display: inline;
-}
-
-.b {
-  
-}
-
-.c {
-  word-wrap: normal;
-  height: 1000px;
-}
-
-#cat{
+img[alt="cat icon"]{
   position: fixed; 
   bottom: 0;
   right: 0;
 }
 
-#dog{
+img[alt="dog icon"]{
   position: relative;
   right: 50px;
   bottom: 150px;
 }
 
-div:#bird{
-  position: absolute;
+img[alt="bird icon"]{
+  position: relative;
   left:250px;
   bottom:50px;
 }
@@ -68,9 +55,9 @@ nav {
   top: 0;
   right: 0;
   background: green;
-  opacity: .9;
-  font-size: 20px;
+  opacity: 90%;
   padding: 5px;
+  font-size: 20px;
 }
 /* --- pre-existing css --- */
 .stripey tr:nth-child(even) {
