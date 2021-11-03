@@ -24,7 +24,6 @@ clubDistanceEntry.html
 
 --------------------------------- */
 
-
 // ----- Functions (clubDistanceList.html) -----
 
 // initialize "clubs" array
