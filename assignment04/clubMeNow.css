@@ -1,7 +1,7 @@
 .cmn_alignCenter{ text-align: center; 
                   padding: 2vh;
                   color: white;
-				  background-color: black;}
+		  background-color: black;}
 .cmn_alignRight { text-align: right; }
 .cmn_hidden     { display:none; }
 .cmn_green_bkgd { background-color: #CAFF33; }
