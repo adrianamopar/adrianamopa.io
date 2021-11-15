@@ -144,7 +144,7 @@ function loadContent() {
 
         chartData.data.datasets[0].backgroundColor = "rgba(100,100,100,0.4)"; // gray
         chartData.data.datasets[1].backgroundColor = "rgba(255,0,0,0.4)"; // red
-        chartData.data.datasets[2].backgroundColor = "rgba(0,255,0,0.4)"; // green 
+        chartData.data.datasets[2].backgroundColor = "rgba(0,0,255,0.4)"; // blue
         chartData.data.datasets[0].label = 'total cases';
         chartData.data.datasets[1].label = 'total deaths';
         chartData.data.datasets[2].label = 'total cases per 100000';
