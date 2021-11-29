@@ -66,3 +66,4 @@ function updateLoansArray() {
     $("#loan_year0"+ (i+1) ).val(loans[i].loan_year);
   }
 }
+
